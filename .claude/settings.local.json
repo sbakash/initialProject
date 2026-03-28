@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(cd:*)",
+      "Bash(tree:*)",
+      "Bash(git init:*)"
+    ]
+  }
+}
